@@ -1,6 +1,6 @@
 # React Dasboard 
 
-This project was bootstrapped with ![Projects image](ProjectImage.png).
+![Projects image](ProjectImage.png).
 
 ## Available Scripts
 
